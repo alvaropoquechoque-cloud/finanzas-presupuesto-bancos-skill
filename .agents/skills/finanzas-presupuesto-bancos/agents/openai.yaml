@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finanzas Sommos — Presupuesto y Bancos"
+  short_description: "Controla presupuesto, ejecución, cierres bancarios y conciliación mensual de Sommos."
+  brand_color: "#4D0B95"
+  default_prompt: "Usa $finanzas-presupuesto-bancos para revisar presupuesto versus real, cerrar bancos o investigar diferencias de conciliación."
+
+policy:
+  allow_implicit_invocation: true
